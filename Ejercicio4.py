@@ -1,3 +1,7 @@
+from ast import main
+
+print("Ejercicio 4:\n")
+
 def error_suma_tipos(*args):
     suma = 0
     for arg in args:
@@ -8,3 +12,6 @@ def error_suma_tipos(*args):
     return suma
 
 error_suma_tipos("2", 10)
+
+if __name__ == "__main__":
+    main()
