@@ -11,5 +11,7 @@ def error_clave_0(diccionario, clave):
 
 error_clave_0({ "españa":"español", "eeuu":"inglés", "italia":"italiano" }, "alemania")
 
+print("\n")
+
 if __name__ == "__main__":
     main()

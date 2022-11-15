@@ -13,5 +13,7 @@ def error_suma_tipos(*args):
 
 error_suma_tipos("2", 10)
 
+print("\n")
+
 if __name__ == "__main__":
     main()

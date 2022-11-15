@@ -11,5 +11,7 @@ def error_elemento_fuera_lista(lista, elemento_lista):
 
 error_elemento_fuera_lista([4, 7, 30, 23, 5], 10)
 
+print("\n")
+
 if __name__ == "__main__":
     main()

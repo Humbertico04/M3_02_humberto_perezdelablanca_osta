@@ -11,5 +11,7 @@ def error_division_0(divisor, dividendo):
 
 error_division_0(7, 0)
 
+print("\n")
+
 if __name__ == "__main__":
     main()
